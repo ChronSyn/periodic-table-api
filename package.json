@@ -1,0 +1,20 @@
+{
+  "name": "periodic-table",
+  "version": "1.0.0",
+  "description": "A Node.js API to access the periodic table elements",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Periodic",
+    "Table",
+    "Elements"
+  ],
+  "author": "Jaime Redondo",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
